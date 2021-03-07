@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POC Intelbras V10</string>
+    <string name="data_operator">Dados da operadora</string>
+    <string name="data_operator_not_found">Dados da operadora não encontrado</string>
+</resources>
